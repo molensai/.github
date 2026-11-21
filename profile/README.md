@@ -55,6 +55,8 @@ This GitHub organization shares Molens AI tutorials, prompt templates, and pract
 
 Start with [Molens AI Creative Guides](https://github.com/molensai/creative-guides):
 
+- [Text to video prompt tutorial](https://github.com/molensai/creative-guides/blob/main/guides/text-to-video-prompts.md) — Plan a clear scene, write the action and camera direction, and revise the result.
+- [Image to video prompt tutorial](https://github.com/molensai/creative-guides/blob/main/guides/image-to-video-prompts.md) — Direct motion from a reference image and check continuity across the clip.
 - [Turn a product photo into a short AI video](https://github.com/molensai/creative-guides/blob/main/guides/product-photo-to-video.md)
 - [Plan three product video concepts you can compare](https://github.com/molensai/creative-guides/blob/main/guides/compare-product-video-concepts.md)
 - [Product video brief template](https://github.com/molensai/creative-guides/blob/main/templates/product-video-brief.md)
